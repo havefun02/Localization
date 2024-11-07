@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "mepq5GCVUPc79vFXPyJL57zDeA5iCw0vF4qjPxWiDoo=",
+  "Source": "Localization",
+  "BasePath": "_content/Localization",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Localization\\wwwroot",
+      "Source": "Localization",
+      "ContentRoot": "C:\\Users\\LAP PHAN\\source\\repos\\ShareResource\\Localization\\wwwroot\\",
+      "BasePath": "_content/Localization",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\LAP PHAN\\source\\repos\\ShareResource\\Localization\\wwwroot\\notFoundPage.html",
+      "SourceId": "Localization",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LAP PHAN\\source\\repos\\ShareResource\\Localization\\wwwroot\\",
+      "BasePath": "_content/Localization",
+      "RelativePath": "notFoundPage.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\notFoundPage.html"
+    }
+  ]
+}
